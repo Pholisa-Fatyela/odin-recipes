@@ -1,4 +1,12 @@
 * {
+    font-family: Garamond, serif;
+    background-color: #C799A6;
+}
+
+body {
+    padding: 0.5em;
+}
+p {
     padding: 0.5em;
 }
 
@@ -17,7 +25,7 @@ nav > ul li{
 }
 
 a {
-    background-color: #dddddd;
+    background-color: #EEE0CB;
   }
 
 img {
